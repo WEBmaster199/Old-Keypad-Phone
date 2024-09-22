@@ -1,2 +1,3 @@
 # Old-Keypad-Phone
-A C # program designed and documented with a class of method that will turn any input to Old Phone Pad into the correct output.
+The C# Code shows a user to imitate text input using an old phone's numeric keypad setup, managing various key presses and special characters.
+
