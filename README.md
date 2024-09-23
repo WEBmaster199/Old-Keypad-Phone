@@ -4,7 +4,7 @@ The C# Code shows a user to imitate text input using an old phone's numeric keyp
 ![Screenshot (1118)](https://github.com/user-attachments/assets/61514b12-a806-4ec0-89b1-7600e1c95f77)
 
 
-Explanation of the Code
+# Explanation of the Code:-
 
 The C # program emulates text input using a traditional mobile phone keypad, where each number (except 0 and 1) corresponds to multiple letters, and you cycle through the letters by pressing the number repeatedly.
 
